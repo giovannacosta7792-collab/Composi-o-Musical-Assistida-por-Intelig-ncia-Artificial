@@ -26,7 +26,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acedido atravé
 | 01 | Alvorada de Papel | Acoustic K-pop / Piano Ballad | [Ouvir MP3](AUDIO/musica1.mp3.mp3) |
 | 02 | Blueprints do Ontem | Lo-fi K-pop / Chill R&B | [Ouvir MP3](AUDIO/musica2.mp3.mp3) |
 | 03 | Constelações de Vidro | Synth-pop / Cinematic Anthem | [Ouvir MP3](AUDIO/musica3.mp3.mp3) |
-| 04 | O Reflexo Além do Espelho | K-pop Rock Ballad / Dramatic | [Ouvir MP3](./audio/O_Reflexo_Além_do_Espelho.mp3) |
+| 04 | O Reflexo Além do Espelho | K-pop Rock Ballad / Dramatic | [Ouvir MP3](AUDIO/musica4.mp3.mp3) |
 | 05 | Sete Cores, Um Prisma | Upbeat K-pop / Tropical House | [Ouvir MP3](./audio/Sete_Cores_Um_Prisma.mp3) |
 
 ## 📄 Processo de Criação
