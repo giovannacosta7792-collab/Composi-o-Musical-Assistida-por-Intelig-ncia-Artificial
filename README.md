@@ -27,7 +27,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acedido atravé
 | 02 | Blueprints do Ontem | Lo-fi K-pop / Chill R&B | [Ouvir MP3](AUDIO/musica2.mp3.mp3) |
 | 03 | Constelações de Vidro | Synth-pop / Cinematic Anthem | [Ouvir MP3](AUDIO/musica3.mp3.mp3) |
 | 04 | O Reflexo Além do Espelho | K-pop Rock Ballad / Dramatic | [Ouvir MP3](AUDIO/musica4.mp3.mp3) |
-| 05 | Sete Cores, Um Prisma | Upbeat K-pop / Tropical House | [Ouvir MP3](./audio/Sete_Cores_Um_Prisma.mp3) |
+| 05 | Sete Cores, Um Prisma | Upbeat K-pop / Tropical House | [Ouvir MP3](AUDIO/musica5.mp3.mp3) |
 
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de letras base para treinamento da persona do assistente.
@@ -35,4 +35,4 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acedido atravé
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, utilizando prompts de estilo específicos para cada faixa.
 
 ---
-Desenvolvido por [[SEU NOME]](https://github.com/[SEU_USUARIO])
+Desenvolvido por [[GEOVANNA CRISTINA SANTOS COSTA]](https://github.com/[giovannacosta7792])
