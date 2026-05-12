@@ -23,7 +23,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acedido atravé
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Alvorada de Papel | Acoustic K-pop / Piano Ballad | [Ouvir MP3]() |
+| 01 | Alvorada de Papel | Acoustic K-pop / Piano Ballad | [Ouvir MP3](MUSICAS (1).txt) |
 | 02 | Blueprints do Ontem | Lo-fi K-pop / Chill R&B | [Ouvir MP3](AS (1).txt) |
 | 03 | Constelações de Vidro | Synth-pop / Cinematic Anthem | [Ouvir MP3](./audio/Constelações_de_Vidro.mp3) |
 | 04 | O Reflexo Além do Espelho | K-pop Rock Ballad / Dramatic | [Ouvir MP3](./audio/O_Reflexo_Além_do_Espelho.mp3) |
